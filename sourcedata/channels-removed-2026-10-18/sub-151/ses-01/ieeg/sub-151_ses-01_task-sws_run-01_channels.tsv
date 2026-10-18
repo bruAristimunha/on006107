@@ -1,0 +1,13 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description	resection
+C1	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C2	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C3	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C4	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C5	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C6	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C7	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C8	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C9	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C10	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C11	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a
+C12	n/a	µV	0.016	300	n/a	n/a	1000	n/a	n/a	n/a	depth	n/a

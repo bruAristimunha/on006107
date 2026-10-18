@@ -1,0 +1,7 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description	resection
+C1	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a	preserved
+C2	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a	preserved
+C3	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a	preserved
+C4	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a	preserved
+C5	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a	preserved
+C6	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a	preserved

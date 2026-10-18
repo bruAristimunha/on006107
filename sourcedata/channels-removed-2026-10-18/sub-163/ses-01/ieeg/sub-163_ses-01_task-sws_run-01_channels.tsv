@@ -1,0 +1,4 @@
+name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description	resection
+A29	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact	n/a
+A33	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact	n/a
+B22	ECOG	µV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact	n/a
