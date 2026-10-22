@@ -1,4 +1,4 @@
-Unreleased 2026-10-18
+1.0.1 2026-10-22
   - 2026-10-19 electrode coordinate system: add coordsystem.json (fsaverage/mm) next to 166 electrodes.tsv; the frame is inferred from coordinate identity with other deposits of the same group and each file's description says so. README: section 'Electrode coordinate system'.
   - channels.tsv of 167 recordings = the data-file header channel list (name, order, count; matched by name): 18189 rows renamed to the header name, 2 rows added, 47 rows removed (kept in sourcedata/channels-removed-2026-10-18/), 1 files reordered. mne_bids read_raw_bids raised 'Channel mismatch'.
   - README: section 'Channel names follow the data headers'.
